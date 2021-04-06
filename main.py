@@ -13,6 +13,5 @@ gc_percentage = (gc_count / len(input_string)) * 100
 
 print(gc_percentage)
 
-blahblahblah
 
 input_file.close()
